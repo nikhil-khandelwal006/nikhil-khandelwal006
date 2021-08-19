@@ -1,6 +1,7 @@
 ### Hello, folks!👋
 
 ###  🎓 I Completed my B.tech (CSE) from Rajasthan Technical University, kota
+###  🎓 And Also Pursuing my B.C.A.(Distance) From Jaipur National University, Jaipur
 <hr>
 
 
