@@ -4,7 +4,6 @@
 <hr>
 
 
- -👋 Hi, I’m Nikhil Khandelwal
  
 -🔭 I’m currently working on Mern-Stack Profile
 
