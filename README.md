@@ -6,7 +6,7 @@
 
 
  
--🔭 I’m currently working on Mern-Stack Profile
+-🔭 I’m actively working on Mern-Stack Profile
 
 -🔭 I’m currently practicing questions on LeetCode
 
