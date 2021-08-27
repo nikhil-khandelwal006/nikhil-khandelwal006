@@ -10,11 +10,11 @@
 
 -🔭 I’m currently practicing questions on LeetCode
 
--🌱 I’m currently learning Cyber Security
+-🌱 I’m currently learning C++ and Cyber-Security.
 
 -👯 I’m actively looking for a Full-Time Job
 
--💬 Ask me about Node.js / Mongo.db / MySQL / React.js / Express.js / Html / Css
+-💬 Ask me about  Html / Css / Node.js / Mongo.db / React.js / Express.js / MySQL .
 
 <!---
 nikhil-khandelwal006/nikhil-khandelwal006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
