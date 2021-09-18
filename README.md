@@ -12,7 +12,7 @@
 
 -🌱 I’m currently learning C++ and Cyber-Security.
 
--👯 I’m actively looking for a Full-Time Job
+<!-- -👯 I’m actively looking for a Full-Time Job  -->
 
 -💬 Ask me about  Html / Css / Node.js / Mongo.db / React.js / Express.js / MySQL .
 
