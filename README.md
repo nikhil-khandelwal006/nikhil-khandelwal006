@@ -1,4 +1,4 @@
-### Hello, folks!👋
+### Hello, folks! I am Nikhil Khandelwal👋
 
 ###  🎓 I Completed my B.tech (CSE) from Rajasthan Technical University, kota
 ###  🎓 And Also Pursuing my B.C.A.(Distance) From Jaipur National University, Jaipur
@@ -8,7 +8,7 @@
  
 -🔭 I’m actively working on Mern-Stack Profile
 
--🔭 I’m currently practicing questions on LeetCode
+-👯 I’m currently practicing questions on LeetCode
 
 -🌱 I’m currently learning C++ and Cyber-Security.
 
