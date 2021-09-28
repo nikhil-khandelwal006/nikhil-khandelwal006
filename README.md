@@ -1,4 +1,4 @@
-### Hello, folks! I am Nikhil Khandelwal👋
+### Hello, folks!  I am Nikhil Khandelwal👋
 
 ###  🎓 I Completed my B.tech (CSE) from Rajasthan Technical University, kota
 ###  🎓 And Also Pursuing my B.C.A.(Distance) From Jaipur National University, Jaipur
