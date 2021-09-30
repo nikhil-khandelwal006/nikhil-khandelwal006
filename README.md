@@ -14,7 +14,7 @@
 
 <!-- -👯 I’m actively looking for a Full-Time Job  -->
 
--💬 Ask me about  Html / Css / Node.js / Mongo.db / React.js / Express.js / MySQL .
+-💬 Ask me about  Html / Css / MongoDB / Express.js  / React.js / Node.js / MySQL / 
 
 <!---
 nikhil-khandelwal006/nikhil-khandelwal006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
